@@ -853,7 +853,7 @@
 - ¿Como esta la [incidencia](tipoIncidencia) [5498](codigoIncidencia)?
 - [Informacion](estado:estado) sobre [incidencia](tipoIncidencia) [98966](codigoIncidencia)
 - La [HNC](tipoIncidencia) [2522114581](codigoIncidencia) está ya [disposicionada](estado:estado)
-- dime el [estado](estado) de la [orden](orden) [8059013](codigoOperacion)
+- dime el [estado](estado) de la [orden](operacion) [8059013](codigoOperacion)
 - dime las [incidencias](incidencia) que estan en [estado](estado) [revisado](descripcionEstado)
 - cuantas [incidencias](incidencia) estan en [estado](estado) [inicio](descripcionEstado)?
 - que [incidencias](incidencia) estan en [descripcion](descripcionEstado)?
@@ -862,34 +862,34 @@
 
 
 ## intent:intent_incidencias_operacion
-- ¿ha tenido la [op](operacion:operacion) [2222](codigoOperacion) alguna vez una [incidencias](incidencia:incidencia)?
-- ¿Se ha producido algunas [incidencias](incidencia:incidencia) con la [tarea](operacion:operacion) [5965](codigoOperacion)?
-- ¿La [operación](operacion:operacion) [5547](codigoOperacion) ha tenido alguna vez alguna [incidencia](incidencia:incidencia)?
+- ¿ha tenido la [op](operacion) [2222](codigoOperacion) alguna vez una [incidencias](incidencia:incidencia)?
+- ¿Se ha producido algunas [incidencias](incidencia:incidencia) con la [tarea](operacion) [5965](codigoOperacion)?
+- ¿La [operación](operacion) [5547](codigoOperacion) ha tenido alguna vez alguna [incidencia](incidencia:incidencia)?
 - ¿Qué [incidencias](incidencia:incidencia) tiene la [operacion](operacion) [7895](codigoOperacion)?
-- ¿tiene [dificultad](incidencia:incidencia) la [op](operacion:operacion) [3698](codigoOperacion)?
-- dime las [incidencias](incidencia:incidencia) de la [operación](operacion:operacion) [2258](codigoOperacion)
-- ¿Tiene alguna [HNC](tipoIncidencia) la [op](operacion:operacion) [1111](codigoOperacion)?
+- ¿tiene [dificultad](incidencia:incidencia) la [op](operacion) [3698](codigoOperacion)?
+- dime las [incidencias](incidencia:incidencia) de la [operación](operacion) [2258](codigoOperacion)
+- ¿Tiene alguna [HNC](tipoIncidencia) la [op](operacion) [1111](codigoOperacion)?
 - [operacion](operacion) [3363](codigoOperacion) [incidencias](incidencia:incidencia)
-- ¿cuantas [incidencias](incidencia:incidencia) tiene abierta la [op](operacion:operacion) [8855](codigoOperacion)?
-- Dime que ha pasado anteriormente en esta [operación](operacion:operacion) [4441](codigoOperacion)
-- [incidencias](incidencia:incidencia) [op](operacion:operacion) [4444](codigoOperacion)
-- ¿Hay alguna [HNC](tipoIncidencia) en la [orden](orden) [8888821](codigoOperacion)?
-- [Incidencias](incidencia:incidencia) [orden](orden) [7599999](codigoOperacion)
+- ¿cuantas [incidencias](incidencia:incidencia) tiene abierta la [op](operacion) [8855](codigoOperacion)?
+- Dime que ha pasado anteriormente en esta [operación](operacion) [4441](codigoOperacion)
+- [incidencias](incidencia:incidencia) [op](operacion) [4444](codigoOperacion)
+- ¿Hay alguna [HNC](tipoIncidencia) en la [orden](operacion) [8888821](codigoOperacion)?
+- [Incidencias](incidencia:incidencia) [orden](operacion) [7599999](codigoOperacion)
 - ¿tiene algun [demat](tipoIncidencia) la tarea [7111002](codigoOperacion)?
-- Dime que [problemas](incidencia:incidencia) ha tenido esta [orden](orden) [7875556](codigoOperacion) en otros [aviones](avion:avion)
-- [incidencias](incidencia:incidencia) [orden](orden) [7413333](codigoOperacion)
-- ¿Qué tipo de problemas ha tenido la [orden](orden) [8770000](codigoOperacion)?
-- La [orden](orden) [7000000](codigoOperacion) tiene algún [OB](tipoIncidencia) registrado???
-- Tiene alguna dificultad la [orden](orden) [8000000](codigoOperacion)
-- Historico de [problema](incidencia:incidencia) de [orden](orden) [7996158](codigoOperacion).
+- Dime que [problemas](incidencia:incidencia) ha tenido esta [orden](operacion) [7875556](codigoOperacion) en otros [aviones](avion:avion)
+- [incidencias](incidencia:incidencia) [orden](operacion) [7413333](codigoOperacion)
+- ¿Qué tipo de problemas ha tenido la [orden](operacion) [8770000](codigoOperacion)?
+- La [orden](operacion) [7000000](codigoOperacion) tiene algún [OB](tipoIncidencia) registrado???
+- Tiene alguna dificultad la [orden](operacion) [8000000](codigoOperacion)
+- Historico de [problema](incidencia:incidencia) de [orden](operacion) [7996158](codigoOperacion).
 - dime los [detalles](operacion) de la [incidencia](incidencia:incidencia) [123456](codigoOperacion)
-- dime las [incidencias](incidencia:incidencia) de la [orden](orden)  [8059013](codigoOperacion)
+- dime las [incidencias](incidencia:incidencia) de la [orden](operacion)  [8059013](codigoOperacion)
 - dime las [incidencias](incidencia:incidencia) de la [operacion](operacion) [1000](codigoOperacion)
 - hoja de [no conformidad](tipoIncidencia) de la [operacion](operacion) [3698](codigoOperacion)
-- hoja de [no conformidad](tipoIncidencia) de la [oden](orden) [7412589](codigoOperacion)
-- cuantas [hncs](tipoIncidencia) tiene la [oden](orden) [8008283](codigoOperacion)
-- dime las [incidencias](incidencia) de la [oden](orden)
-- dime las [obs](tipoIncidencia) de la [orden](orden) [7777777](codigoOperacion)
+- hoja de [no conformidad](tipoIncidencia) de la [oden](operacion) [7412589](codigoOperacion)
+- cuantas [hncs](tipoIncidencia) tiene la [oden](operacion) [8008283](codigoOperacion)
+- dime las [incidencias](incidencia) de la [oden](operacion)
+- dime las [obs](tipoIncidencia) de la [orden](operacion) [7777777](codigoOperacion)
 
 
 ## intent:intent_incidencias_responsable
@@ -911,7 +911,7 @@
 - dime las personas que han intervenido en la [incidencia](tipoIncidencia) [4566666665](codigoIncidencia) y las fechas
 - compañero que  gestiona la [HNC](tipoIncidencia) [1599511599](codigoIncidencia)
 - ¿A quién tengo que pedir información sobre la [HNC](tipoIncidencia) [1588511596](codigoIncidencia)?
-- ¿quien me soluciona el warning [abierto](abrir) en la [op](operacion:operacion) [1234](codigoOperacion) del [avion](avion) [188](codigoAvion)?
+- ¿quien me soluciona el warning [abierto](abrir) en la [op](operacion) [1234](codigoOperacion) del [avion](avion) [188](codigoAvion)?
 - Quién revisó la disposición de la [HNC](tipoIncidencia) [2258745695](codigoIncidencia)?
 - ¿Quién está con la disposición de la [HNC](tipoIncidencia) [1236963215](codigoIncidencia)?
 - Se ha respondido a la [HNC](tipoIncidencia) [2225899999](codigoIncidencia)?
@@ -936,7 +936,7 @@
 - dime las [incidencias](incidencia) del [gnt](tipoGNT) [taller electronica](descripcionGNT) en la [45](codigoEstacion)
 
 ## regex:codigoAvion
-- [1-9]{3}
+- [1-3]{1}[1-9]{2}
 
 ## regex:codigoEstacion
 - [1-9]{1}[5]{1}
@@ -979,10 +979,14 @@
 
 ## lookup:operacion
 - op
+- ops
 - operacion
 - operación
+- operaciones
+- detalle
 - detalles
 - tarea
+- tareas
 
 ## lookup: descripcionGNT
 - SUBCONTRAT 
@@ -3032,7 +3036,7 @@
  - slot{"abrir": "abrió"}
  - slot{"tipoIncidencia": "HNC"}
  - slot{"codigoIncidencia": "1234567891"}
- - action_apertura_cierre
+ - action_apertura
  - utter_ayuda_algo_mas
 * no_negacion
  - utter_greeting_final
@@ -3043,7 +3047,7 @@
  - slot{"cerrar": "cerro"}
  - slot{"tipoIncidencia": "HNC"}
  - slot{"codigoIncidencia": "1234567891"}
- - action_apertura_cierre
+ - action_cierre
  - utter_ayuda_algo_mas
 * no_negacion
  - utter_greeting_final
@@ -3054,18 +3058,18 @@
  - slot{"abrir": "abrio"}
  - slot{"tipoIncidencia": "incidencia"}
  - slot{"codigoIncidencia": "123456"}
- - action_apertura_cierre
+ - action_apertura
  - utter_ayuda_algo_mas
 * si_afirmacion
  - utter_oidos
  - action_restart
 
 ## story_incidencia_cierre_apertura4
-* intent_incidencias_apertura{"tipoIncidencia": "Observacion","codigoIncidencia": "4444444444","cerrar": "cierre"}
+* intent_incidencias_cierre{"tipoIncidencia": "Observacion","codigoIncidencia": "4444444444","cerrar": "cierre"}
  - slot{"cerrar": "cierre"}
  - slot{"tipoIncidencia": "Observacion"}
  - slot{"codigoIncidencia": "4444444444"}
- - action_apertura_cierre
+ - action_cierre
  - utter_ayuda_algo_mas
 * si_afirmacion
  - utter_oidos
@@ -3162,16 +3166,6 @@
  - action_gnt
  - action_restart
 
-## Story from conversation with me on July 9th 2019
-
-* intent_incidencias_apertura{"abrir":"abrió","incidencia":"incidencia","codigoIncidencia":"123456"}
-    - slot{"abrir":"abrió"}
-    - slot{"codigoIncidencia":"123456"}
-    - slot{"tipoIncidencia":"incidencia"}
-    - action_apertura_cierre
-    - action_restart
-
-
 
 intents:
 - intent_incidencias_operacion
@@ -3207,7 +3201,6 @@ intents:
 
 entities:
 - operacion
-- orden
 - codigoOperacion
 - avion
 - codigoAvion
@@ -3301,8 +3294,6 @@ slots:
   incidencia:
     type: text
   operacion:
-    type: text
-  orden:
     type: text
   partNumber:
     type: text
@@ -3427,7 +3418,8 @@ templates:
 actions:
 - action_operacion
 - action_avion
-- action_apertura_cierre
+- action_apertura
+- action_cierre
 - action_responsable
 - action_estado
 - action_default_fallback
@@ -3526,7 +3518,7 @@ class FallBackAction(Action):
 
 def conexion():
     conn = psycopg2.connect(
-        "dbname='rasax' user='postgres' host='localhost' password='root'"
+        "dbname='oraculo_L&M' user='u20453' host='bar02368' password='aac_123'"
     )
     cur = conn.cursor()
     return cur
@@ -3887,7 +3879,6 @@ class ActionOperacion(Action):
         operacion = tracker.get_slot("operacion")
         codigoOperacion = tracker.get_slot("codigoOperacion")
         incidencia = tracker.get_slot("incidencia")
-        orden = tracker.get_slot("orden")
         tipoIncidencia = tracker.get_slot("tipoIncidencia")
         cur = conexion()
         obs = ""
@@ -3897,7 +3888,7 @@ class ActionOperacion(Action):
         rowIncidencia = 0
         incidenciaDetallada = ""
 
-        print(operacion, orden, codigoOperacion)
+        print(operacion, codigoOperacion)
 
         if operacion != None:
             operacion = operacion.lower()
@@ -3936,6 +3927,7 @@ class ActionOperacion(Action):
             codigoOperacion = codigoOperacion.replace("'", "").replace('"', "").replace("/", "")
             codigoOperacion = re.sub('[^0-9]','', codigoOperacion)
 
+            #Expresion regular 4 digitos operacion [1-8]{1}[0-9]{3} y de 7 orden [7-8]{1}[0-1]{6}
             if (
                 int(codigoOperacion) < 0 or int(codigoOperacion) > 9999
             ) and operacion != None:
@@ -4356,6 +4348,33 @@ class ActionOperacion(Action):
                         return []
             else:
                 rowDEMAT = '0'
+        
+        if tipoIncidencia == None:
+            if int(codigoOperacion) > 0 and int(codigoOperacion) <= 9999:
+                cur.execute(
+                    "SELECT count(*) from lm_fil_hnc where operacion ='"
+                    + codigoOperacion
+                    + "';"
+                    )
+                rows = cur.fetchall()
+                if str(rows[0]) != '(0,)':
+                    row = str(rows[0])
+                    row = "".join(row)
+                    rowHNC = row.replace(",", "").replace("(", "").replace(")", "")
+                    dispatcher.utter_message("<b>Existen " + rowHNC + " HNC en la operación " + codigoOperacion + "</b>")
+
+            elif int(codigoOperacion) >= 7000000 and int(codigoOperacion) <= 8999999:
+                cur.execute(
+                    "SELECT count(*) from lm_fil_hnc where orden ='"
+                    + codigoOperacion
+                    + "';"
+                    )
+                rows = cur.fetchall()
+                if str(rows[0]) != '(0,)':
+                    row = str(rows[0])
+                    row = "".join(row)
+                    rowHNC = row.replace(",", "").replace("(", "").replace(")", "")
+                    dispatcher.utter_message("<b>Existen " + rowHNC + " HNC en la orden " + codigoOperacion + "</b>")
 
             cur.execute(
                 "SELECT partnumber, orden, descripcion_incidencia from lm_fil_demat where orden ='"
@@ -5134,17 +5153,17 @@ class ActionAvion(Action):
                 dispatcher.utter_message("Introduzca un PartNumber correcto")
                 return []
 
-class ActionAperturaCierre(Action):
+class ActionApertura(Action):
     def name(self):
         # define the name of the action which can then be included in training stories
-        return "action_apertura_cierre"
+        return "action_apertura"
 
     def run(self, dispatcher, tracker, domain):
         incidencia = ""
         tipoIncidencia = tracker.get_slot("tipoIncidencia")
         codigoIncidencia = tracker.get_slot("codigoIncidencia")
         abrir = tracker.get_slot("abrir")
-        cerrar = tracker.get_slot("cerrar")
+        cerrar = None
 
         cur = conexion()
         if tipoIncidencia != None:
@@ -5185,6 +5204,8 @@ class ActionAperturaCierre(Action):
             codigoIncidencia = (
                 codigoIncidencia.replace("'", "").replace('"', "").replace("/", "")
             )
+
+        print(tipoIncidencia, codigoIncidencia, abrir, cerrar)
 
         if int(codigoIncidencia) >= 1000000000 and int(codigoIncidencia) <= 3000000000:
             #if tipoIncidencia == "hnc":
@@ -5403,7 +5424,7 @@ class ActionAperturaCierre(Action):
         elif codigoIncidencia != None and int(codigoIncidencia) < 111111111:
             if abrir != None:
                 cur.execute(
-                    "SELECT id, resp, created_str, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
+                    "SELECT id, resp, created_by, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
                     + codigoIncidencia
                     + "';"
                 )
@@ -5436,7 +5457,7 @@ class ActionAperturaCierre(Action):
 
             elif cerrar != None:
                 cur.execute(
-                    "SELECT id, resp, created_str, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
+                    "SELECT id, resp, created_by, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
                     + codigoIncidencia
                     + "';"
                 )
@@ -5469,7 +5490,380 @@ class ActionAperturaCierre(Action):
 
             else:
                 cur.execute(
-                    "SELECT id, resp, created_str, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
+                    "SELECT id, resp, created_by, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
+                    + codigoIncidencia
+                    + "';"
+                )
+                rows = cur.fetchall()
+                incidencia = ""
+                if rows != []:
+                    index = 0
+                    for row in rows:
+                        row = str(rows[index])
+                        index += 1
+                        row = "".join(row)
+                        rowIncidencia = (
+                            row.replace(",", "").replace("(", "").replace(")", "")
+                        )
+                        elements = rowIncidencia.split("'")
+                        incidencia += (
+                            "DEMAT: "
+                            + elements[1]
+                            + "<br>Abierta por: "
+                            + elements[3]
+                            + " el "
+                            + elements[5]
+                            + "<br>Cerrada por: "
+                            + elements[9]
+                            + " el "
+                            + elements[11]
+                            + "<br>Responsable: "
+                            + elements[7]
+                        )
+                        dispatcher.utter_message(incidencia)
+                else:
+                    incidencia = "La Demat " + codigoIncidencia + " no existe."
+                    dispatcher.utter_message(incidencia)
+
+                return []
+
+        else:
+            incidencia = "La incidencia con numero " + codigoIncidencia + " no existe."
+
+        dispatcher.utter_message(incidencia)
+
+        return []
+
+class ActionCierre(Action):
+    def name(self):
+        # define the name of the action which can then be included in training stories
+        return "action_cierre"
+
+    def run(self, dispatcher, tracker, domain):
+        incidencia = ""
+        tipoIncidencia = tracker.get_slot("tipoIncidencia")
+        codigoIncidencia = tracker.get_slot("codigoIncidencia")
+        cerrar = tracker.get_slot("cerrar")
+        abrir = None
+
+        cur = conexion()
+        if tipoIncidencia != None:
+            tipoIncidencia = tipoIncidencia.upper()
+            tipoIncidencia = (
+                tipoIncidencia.replace("'", "").replace(".", "").replace(" ", "")
+            )
+            if (
+                tipoIncidencia == "HNC"
+                or tipoIncidencia == "HNCS"
+                or tipoIncidencia == "NOCONFORMIDADES"
+                or tipoIncidencia == "NOCONFORMIDAD"
+            ):
+                tipoIncidencia = "hnc"
+            elif (
+                tipoIncidencia == "OBS"
+                or tipoIncidencia == "OBSERVACIONES"
+                or tipoIncidencia == "OB"
+                or tipoIncidencia == "FINOBS"
+                or tipoIncidencia == "FINOB"
+                or tipoIncidencia == "OBSERVACION"
+                or tipoIncidencia == "OB"
+            ):
+                tipoIncidencia = "obs"
+            elif tipoIncidencia == "DEMAT" or tipoIncidencia == "INCIDENCIA":
+                tipoIncidencia = "demat"
+        '''
+        elif tipoIncidencia == None:
+            incidencia = "No existe ese tipo de incidencia"
+            dispatcher.utter_message(incidencia)
+            return []
+        '''
+        if codigoIncidencia == None:
+            incidencia = "Introduzca numero de inicidencia en la consulta"
+            dispatcher.utter_message(incidencia)
+            return []
+        else:
+            codigoIncidencia = (
+                codigoIncidencia.replace("'", "").replace('"', "").replace("/", "")
+            )
+
+        if int(codigoIncidencia) >= 1000000000 and int(codigoIncidencia) <= 3000000000:
+            #if tipoIncidencia == "hnc":
+                if abrir != None:
+                    cur.execute(
+                        "SELECT aviso, creado_el, creado_por, usuario_realiza_toma_disposici, fecha_toma_disposición from zqm_hnc_2018 where aviso = '"
+                        + codigoIncidencia
+                        + "';"
+                    )
+                    rows = cur.fetchall()
+                    incidencia = ""
+                    if rows != []:
+                        index = 0
+                        for row in rows:
+                            row = str(rows[index])
+                            index += 1
+                            row = "".join(row)
+                            rowIncidencia = (
+                                row.replace(",", "").replace("(", "").replace(")", "")
+                            )
+                            elements = rowIncidencia.split("'")
+                            incidencia = (
+                                "HNC: "
+                                + elements[1]
+                                + "<br>Abierta por: "
+                                + elements[5]
+                                + " el "
+                                + elements[3]
+                            )
+                            dispatcher.utter_message(incidencia)
+                    else:
+                        incidencia = "La HNC " + codigoIncidencia + " no existe."
+                        dispatcher.utter_message(incidencia)
+
+                    return []
+
+                elif cerrar != None:
+                    cur.execute(
+                        "SELECT aviso, creado_el, creado_por, usuario_realiza_toma_disposici, fecha_toma_disposición from zqm_hnc_2018 where aviso = '"
+                        + codigoIncidencia
+                        + "';"
+                    )
+                    rows = cur.fetchall()
+                    incidencia = ""
+                    if rows != []:
+                        index = 0
+                        for row in rows:
+                            row = str(rows[index])
+                            index += 1
+                            row = "".join(row)
+                            rowIncidencia = (
+                                row.replace(",", "").replace("(", "").replace(")", "")
+                            )
+                            elements = rowIncidencia.split("'")
+                            incidencia = (
+                                "HNC: "
+                                + elements[1]
+                                + "<br>Cerrado por: "
+                                + elements[7]
+                                + " el "
+                                + elements[9]
+                            )
+                            dispatcher.utter_message(incidencia)
+                    else:
+                        incidencia = "La HNC " + codigoIncidencia + " no existe."
+                        dispatcher.utter_message(incidencia)
+
+                    return []
+
+                else:
+                    cur.execute(
+                        "SELECT aviso, creado_el, creado_por, usuario_realiza_toma_disposici, fecha_toma_disposición from zqm_hnc_2018 where aviso = '"
+                        + codigoIncidencia
+                        + "';"
+                    )
+                    rows = cur.fetchall()
+                    incidencia = ""
+                    if rows != []:
+                        index = 0
+                        for row in rows:
+                            row = str(rows[index])
+                            index += 1
+                            row = "".join(row)
+                            rowIncidencia = (
+                                row.replace(",", "").replace("(", "").replace(")", "")
+                            )
+                            elements = rowIncidencia.split("'")
+                            incidencia = (
+                                "HNC: "
+                                + elements[1]
+                                + "<br>Abierta por: "
+                                + elements[5]
+                                + " el "
+                                + elements[3]
+                                + "<br>Cerrado por: "
+                                + elements[7]
+                                + " el "
+                                + elements[9]
+                            )
+                            dispatcher.utter_message(incidencia)
+                    else:
+                        incidencia = "La HNC " + codigoIncidencia + " no existe."
+                        dispatcher.utter_message(incidencia)
+
+                    return []
+
+        elif (
+            int(codigoIncidencia) >= 4000000000 and int(codigoIncidencia) <= 5000000000
+        ):
+            #if tipoIncidencia == "obs":
+                if abrir != None:
+                    cur.execute(
+                        "SELECT número_aviso, usuario_apertura, fecha_apertura, fecha_cierre, cierre_producción from zqm_ob_2018 where número_aviso = '"
+                        + codigoIncidencia
+                        + "';"
+                    )
+                    rows = cur.fetchall()
+                    incidencia = ""
+                    if rows != []:
+                        index = 0
+                        for row in rows:
+                            row = str(rows[index])
+                            index += 1
+                            row = "".join(row)
+                            rowIncidencia = (
+                                row.replace(",", "").replace("(", "").replace(")", "")
+                            )
+                            elements = rowIncidencia.split("'")
+                            incidencia = (
+                                "OBS: "
+                                + elements[1]
+                                + "<br>Abierta por: "
+                                + elements[3]
+                                + " el "
+                                + elements[5]
+                            )
+                            dispatcher.utter_message(incidencia)
+                    else:
+                        incidencia = "La OBS " + codigoIncidencia + " no existe."
+                        dispatcher.utter_message(incidencia)
+
+                    return []
+
+                elif cerrar != None:
+                    cur.execute(
+                        "SELECT número_aviso, usuario_apertura, fecha_apertura, fecha_cierre, cierre_producción from zqm_ob_2018 where número_aviso = '"
+                        + codigoIncidencia
+                        + "';"
+                    )
+                    rows = cur.fetchall()
+                    incidencia = ""
+                    if rows != []:
+                        index = 0
+                        for row in rows:
+                            row = str(rows[index])
+                            index += 1
+                            row = "".join(row)
+                            rowIncidencia = (
+                                row.replace(",", "").replace("(", "").replace(")", "")
+                            )
+                            elements = rowIncidencia.split("'")
+                            incidencia = (
+                                "OBS: "
+                                + elements[1]
+                                + "<br>Cerrada por: "
+                                + elements[9]
+                                + " el "
+                                + elements[7]
+                            )
+                            dispatcher.utter_message(incidencia)
+                    else:
+                        incidencia = "La OBS " + codigoIncidencia + " no existe."
+                        dispatcher.utter_message(incidencia)
+
+                    return []
+
+                else:
+                    cur.execute(
+                        "SELECT número_aviso, usuario_apertura, fecha_apertura, fecha_cierre, cierre_producción from zqm_ob_2018 where número_aviso = '"
+                        + codigoIncidencia
+                        + "';"
+                    )
+                    rows = cur.fetchall()
+                    incidencia = ""
+                    if rows != []:
+                        index = 0
+                        for row in rows:
+                            row = str(rows[index])
+                            index += 1
+                            row = "".join(row)
+                            rowIncidencia = (
+                                row.replace(",", "").replace("(", "").replace(")", "")
+                            )
+                            elements = rowIncidencia.split("'")
+                            incidencia = (
+                                "OBS: "
+                                + elements[1]
+                                + "<br>Cerrada por: "
+                                + elements[9]
+                                + " el "
+                                + elements[7]
+                            )
+                            dispatcher.utter_message(incidencia)
+                    else:
+                        incidencia = "La OBS " + codigoIncidencia + " no existe."
+                        dispatcher.utter_message(incidencia)
+
+                    return []
+
+        elif codigoIncidencia != None and int(codigoIncidencia) < 111111111:
+            if abrir != None:
+                cur.execute(
+                    "SELECT id, resp, created_by, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
+                    + codigoIncidencia
+                    + "';"
+                )
+                rows = cur.fetchall()
+                incidencia = ""
+                if rows != []:
+                    index = 0
+                    for row in rows:
+                        row = str(rows[index])
+                        index += 1
+                        row = "".join(row)
+                        rowIncidencia = (
+                            row.replace(",", "").replace("(", "").replace(")", "")
+                        )
+                        elements = rowIncidencia.split("'")
+                        incidencia = (
+                            "DEMAT: "
+                            + elements[1]
+                            + "<br>Abierta por: "
+                            + elements[3]
+                            + " el "
+                            + elements[5]
+                        )
+                        dispatcher.utter_message(incidencia)
+                else:
+                    incidencia = "La Demat " + codigoIncidencia + " no existe."
+                    dispatcher.utter_message(incidencia)
+
+                return []
+
+            elif cerrar != None:
+                cur.execute(
+                    "SELECT id, resp, created_by, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
+                    + codigoIncidencia
+                    + "';"
+                )
+                rows = cur.fetchall()
+                incidencia = ""
+                if rows != []:
+                    index = 0
+                    for row in rows:
+                        row = str(rows[index])
+                        index += 1
+                        row = "".join(row)
+                        rowIncidencia = (
+                            row.replace(",", "").replace("(", "").replace(")", "")
+                        )
+                        elements = rowIncidencia.split("'")
+                        incidencia = (
+                            "DEMAT: "
+                            + elements[1]
+                            + "<br>Cerrada por: "
+                            + elements[9]
+                            + " el "
+                            + elements[11]
+                        )
+                        dispatcher.utter_message(incidencia)
+                else:
+                    incidencia = "La Demat " + codigoIncidencia + " no existe."
+                    dispatcher.utter_message(incidencia)
+
+                return []
+
+            else:
+                cur.execute(
+                    "SELECT id, resp, created_by, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
                     + codigoIncidencia
                     + "';"
                 )
@@ -5627,7 +6021,7 @@ class ActionResponsable(Action):
 
         else:
             cur.execute(
-                "SELECT id, resp, created_str, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
+                "SELECT id, resp, created_by, modified_str, act_realstartdate_str, act_realenddate_str from demat where id = '"
                 + codigoIncidencia
                 + "';"
             )
